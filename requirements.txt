@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+sympy
+seaborn
+matplotlib
+scikit-learn
+folktables
+shapely
